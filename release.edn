@@ -1,0 +1,3 @@
+{:group-id "org.clojars.patbrown"
+ :artifact-id "iggy-pop"
+ :scm-url "https://github.com/patbrown/iggy-pop"}
